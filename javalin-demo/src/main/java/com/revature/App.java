@@ -18,3 +18,7 @@ public class App
 
 // Open new terminal (can split terminals)
 // terminal commands: $ curl localhost: 7071
+
+// Can test with mvn test (Bascially revpro test is a Wrapper for this, so we can send to the progress tracker
+// and eliminate unecessary code)
+// mvn verify
