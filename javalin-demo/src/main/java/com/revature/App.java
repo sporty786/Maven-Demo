@@ -13,7 +13,6 @@ public class App
         Javalin app = Javalin.create(/*config*/);
         app.get("/", ctx -> ctx.result("Hello World/n"));
         app.start(7071);
-
     }
 }
 
