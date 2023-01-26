@@ -22,3 +22,13 @@ public class App
 // Can test with mvn test (Bascially revpro test is a Wrapper for this, so we can send to the progress tracker
 // and eliminate unecessary code)
 // mvn verify
+
+
+/**
+ * maven - as a dependency manager & build tool
+ * structure of maven (src/main+test)
+ * the pomxml, which defines the structure of the maven project and contains information about external dependencies
+ * mvnrepository, an online library of all open source maven projects
+ * different stages of maven lifecycle - eg validate, compile, test, package
+ * getting Javalin into our projects
+ */
